@@ -1,2 +1,3 @@
 # AlphaVantagePythonRSI
-Get RSI values from AlphaVantage using Python
+Get RSI values from AlphaVantage using Python.
+Really simple weekend project
